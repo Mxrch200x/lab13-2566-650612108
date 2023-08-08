@@ -28,8 +28,8 @@ export default function RootLayout({ children }) {
           {children}
           <Footer
             year="2023"
-            fullName="Chayanin Suatap"
-            studentId="650610560"
+            fullName="Artittaya Tieng-arom"
+            studentId="650612108"
           />
         </div>
       </body>
